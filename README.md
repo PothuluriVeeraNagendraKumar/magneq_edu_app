@@ -1,0 +1,1 @@
+# magneq_edu_app
