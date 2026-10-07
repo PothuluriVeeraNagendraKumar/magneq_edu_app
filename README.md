@@ -1,1 +1,4 @@
-# magneq_edu_app
+# magneq\_edu\_app
+
+&#x20;hi welcome to magneq
+
